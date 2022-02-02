@@ -5,7 +5,7 @@ This README is an attempt to collect interesting alias for `gh` in the context o
 The idea is to have a section for user.
 
 
-## crguezl
+## crguezl gh aliases
 
 My two most important alias are 
 
